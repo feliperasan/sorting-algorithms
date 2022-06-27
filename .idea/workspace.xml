@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61c502b1-834b-4e34-b034-6e81f75e229d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Selectionsort.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Insertionsort.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +18,7 @@
       <list>
         <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -39,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SelectionsortKt">
+  <component name="RunManager" selected="Kotlin.InsertionsortKt">
     <configuration name="OrdenacaoSelecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrdenacaoSelecao" />
       <module name="estrutura-de-dados" />
@@ -54,6 +55,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InsertionsortKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionsortKt" />
+      <module name="estrutura-de-dados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SelectionsortKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SelectionsortKt" />
       <module name="estrutura-de-dados" />
@@ -63,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InsertionsortKt" />
         <item itemvalue="Kotlin.SelectionsortKt" />
         <item itemvalue="Application.OrdenacaoSelecao" />
         <item itemvalue="Kotlin.BubblesortKt" />
